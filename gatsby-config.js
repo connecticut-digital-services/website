@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: "/connecticut-digital-service",
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Connecticut Digital Service`,
+    description: `Future home of the Connecticut Digital Service`,
     author: `@gatsbyjs`,
   },
   plugins: [
