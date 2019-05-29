@@ -1,0 +1,11 @@
+@tailwind preflight;
+@tailwind utilities;
+
+body {
+    background-color: #f7fafc;
+}
+
+a, a:visited {
+    color: #667eea;
+    text-decoration: underline;
+}
