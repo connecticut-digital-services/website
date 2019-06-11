@@ -9,3 +9,7 @@ a, a:visited {
     color: #667eea;
     text-decoration: underline;
 }
+
+svg {
+    height: 10%;
+}
